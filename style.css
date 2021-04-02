@@ -1,0 +1,17 @@
+body {
+    padding: 100px;
+}
+
+span {
+    color: goldenrod;
+}
+
+.submit-area1 {
+    margin-top: 50px;
+    padding: 50px;
+    box-shadow: 5px 5px 10px gray;
+}
+
+#transaction-area {
+    display: none;
+}
